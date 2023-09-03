@@ -24,6 +24,7 @@ public class Student
 			System.out.println("Roll no is "+ st1.RollNO);
 			System.out.println("Age is "+ st1.Age);
 			
+			System.out.println("Testing ");
 			st1.Display1();
 			st1.Display2();
 	}
